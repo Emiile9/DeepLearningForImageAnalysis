@@ -222,3 +222,6 @@ __marimo__/
 *.png
 *.gif
 *.bmp
+
+# data
+Lab6/data/
